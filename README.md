@@ -1,6 +1,6 @@
 # PhysioPods-DIY
 
-**Salut #TeamKiné !**
+**Salut la #TeamKiné !**
 
 Voici ma version DIY des pods, croisés avec le jeu Simon auquel on a tous joué gamin !
 
